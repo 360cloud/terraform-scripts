@@ -10,7 +10,9 @@ https://www.udemy.com/terraform-and-packer/?couponCode=IAC-TER
 
 Create a Bastion Host using Terraform Scripts .
 
-EC2 Instance and Security Groups
+EC2 Instance and Security Groups with multiple ingress rules . ( Allow traffic from trusted sources only )
+
+
 
 # For Using TFVAR File
 
