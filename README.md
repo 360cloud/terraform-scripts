@@ -6,6 +6,11 @@ For 50 % Off Coupon.
 
 https://www.udemy.com/terraform-and-packer/?couponCode=IAC-TER
 
+# Bastion
+
+Create a Bastion Host using Terraform Scripts .
+
+EC2 Instance and Security Groups
 
 # For Using TFVAR File
 
