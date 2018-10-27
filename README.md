@@ -1,14 +1,14 @@
 # These Scripts are a part of Terraform Training Course in Udemy .
 
-This video is a part of -  Enterprise Infrastructure  Automation using Terraform Course on Udemy .
+Enterprise Infrastructure  Automation using Terraform Course on Udemy .
 
 For 50 % Off Coupon.
-
 https://www.udemy.com/terraform-and-packer/?couponCode=IAC-TER
+
 
 # Terraform Getting Started AWS
 
-Getting Started Examples .
+Getting Started Example on AWS .
 
 # IAM
 
@@ -40,10 +40,11 @@ EC2 Instance and Security Groups with multiple ingress rules . ( Allow traffic f
 
 # Using Count Parameters for Scaling Terraform Resources:
 
-count-example : EC2 Instances with an Elastic Load Balancer
+count-example : EC2 Instances scaling with count and using an Elastic Load Balancer
 
 
-# For Using TFVAR File
+
+# Using TFVAR File to maintain multiple AWS Environments .
 
 Use env-config directory to store your TFVAR Files
 
