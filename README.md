@@ -12,6 +12,9 @@ Create a Bastion Host using Terraform Scripts .
 
 EC2 Instance and Security Groups with multiple ingress rules . ( Allow traffic from trusted sources only )
 
+# Using Count Parameters for Scaling Terraform Resources:
+
+count-example : EC2 Instances with an Elastic Load Balancer
 
 
 # For Using TFVAR File
