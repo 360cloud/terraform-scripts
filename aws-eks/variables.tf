@@ -7,7 +7,7 @@ variable "cluster-name" {
 }
 
 variable "key_name" {
-  default = "blockgraph-kubernetes"
+  default = "test-kubernetes"
   type    = "string"
 }
 
